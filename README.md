@@ -5,7 +5,7 @@ application up and running.
 
 Things you may want to cover:
 
-[](https://gyazo.com/806a79020fbf7b941473f110190fe9a2)
+[title](https://gyazo.com/806a79020fbf7b941473f110190fe9a2)
 * Ruby version
 
 * System dependencies
